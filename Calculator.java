@@ -14,6 +14,7 @@ public class Calculator extends Application {
 	/*
 	 * this is simple calculator class    
 	 *yanal zayed
+	 *ahmed zayed 
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
